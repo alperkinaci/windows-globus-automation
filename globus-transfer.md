@@ -50,7 +50,7 @@ installation, the Path environment variable should be modified.
 Search for "environment variables" in the start menu search. Click on
 the "Edit the system environment variables".
 
-![search](/imagese/nv-var1.png)
+![search](/images/env-var1.png)
 
 On the newly opened "System Properties" box, click "Environment Variables"
 
