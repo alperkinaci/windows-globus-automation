@@ -1,7 +1,8 @@
 # DATA TRANSFER FROM WINDOWS SERVER USING GLOBUS
 <hr>
 
-This document outlines an example setup
+This document outlines an example setup to automate data transfers from
+Windows server to a Linux machine via Globus. 
 
 ### KLC (QUEST) TO DO
 Quest storage has a managed Globus endpoint, however managed endpoints
