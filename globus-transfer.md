@@ -50,19 +50,19 @@ installation, the Path environment variable should be modified.
 Search for "environment variables" in the start menu search. Click on
 the "Edit the system environment variables".
 
-![search](\images\env-var1.png)
+![search](/imagese/nv-var1.png)
 
 On the newly opened "System Properties" box, click "Environment Variables"
 
-![systemprop](\images\env-var2a.png)
+![systemprop](/images/env-var2a.png)
 
 Select "Path" variable and click "Edit"
 
-![envvar](\images\env-var3a.png)
+![envvar](/images/env-var3a.png)
 
 Click "New"
 
-![path](\images\env-var4a.png)
+![path](/images/env-var4a.png)
 
 Add the following lines
 
@@ -181,22 +181,22 @@ conda deactivate
 
 Now it is time to schedule to run the script via Windows "Task Scheduler."
 
-![search](\images\task-sched1.png)
+![search](/images/task-sched1.png)
 
 On the Task Scheduler Action tab, clock on "Create Task"
 
-![search](\images\task-sched2.png)
+![search](/images/task-sched2.png)
 
 Give a name to your new task and select to run the task whether the user is
 logged on or not. You may also add a description. No other changes are
 needed here.
 
-![search](\images\task-sched3.png)
+![search](/images/task-sched3.png)
 
 Click on the "Actions" tab and then select new. We will create three
 actions.
 
-![search](\images\task-sched4.png)
+![search](/images/task-sched4.png)
 
 The three actions (in order of processing) will have the following configurations:
 
@@ -229,4 +229,4 @@ To complete the automation process, you could also click on the "Triggers" tab
 on the "Create Task" box. The trigger could be a time of day to schedule daily
 transfers.
 
-![search](\images\task-sched5.png)
+![search](/images/task-sched5.png)
