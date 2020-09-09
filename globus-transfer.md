@@ -121,7 +121,7 @@ C:\path\to\globus\Scripts\activate.bat
 #### III- Globus CLI Installation
 
 Once your environment (through conda or venv) is activated, you can install globus-cli
-package withing the environment.
+package within the environment.
 
 ```cmd
 pip install globus-cli
@@ -135,7 +135,7 @@ globus --help
 #### IV- Setting Up Transfer
 
 To setup the transfer, first you need to obtain the endpoint IDs for your
-Shared Endpoint on Quest and Personal Connect endpoint on your local computer.
+Shared endpoint on Quest and Personal Connect endpoint on your local computer.
 
 On the Windows Command Prompt search for the names of your endpoints and
 note the IDs:
